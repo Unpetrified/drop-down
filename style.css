@@ -1,0 +1,12 @@
+.drop-down {
+  display: none;
+  flex-direction: column;
+}
+
+li {
+  list-style-type: none;
+}
+
+.visible {
+  display: flex;
+}
