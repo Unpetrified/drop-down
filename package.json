@@ -1,0 +1,20 @@
+{
+  "name": "drop-down",
+  "version": "1.0.0",
+  "description": "Simple drop down. Enjoy",
+  "main": "script.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Unpetrified/drop-down.git"
+  },
+  "keywords": [
+    "drop",
+    "down"
+  ],
+  "author": "Unpetrified <kt.obiefuna@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Unpetrified/drop-down/issues"
+  },
+  "homepage": "https://github.com/Unpetrified/drop-down#readme"
+}
